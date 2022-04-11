@@ -2,10 +2,10 @@
 /**
  * Plugin Name: BWD Timeline Event
  * Description: BWD Timeline Event plugin with 110+ types of timeline design also flexible and responsive timeline for Elementor.
- * Plugin URI:  https://bestwpdeveloper.com/plugins/elementor/bwd-timeline-event
+ * Plugin URI:  https://google.com
  * Version:     1.0
- * Author:      Best WP Developer
- * Author URI:  https://bestwpdeveloper.com/
+ * Author:      FERDAUS SK
+ * Author URI:  https://google.com
  * Text Domain: bwd-timeline-event
  * Elementor tested up to: 3.0.0
  * Elementor Pro tested up to: 3.0.0
